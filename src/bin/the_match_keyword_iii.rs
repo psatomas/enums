@@ -1,5 +1,3 @@
-use std::iter::Cycle;
-
 enum Laundrycycle {
     Cold,
     Hot { temperature: u32 },
